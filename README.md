@@ -12,13 +12,13 @@ The “Office Utilization Monitoring System” is an IoT project that focuses on
 
 ## Method
 
- ### [Requirements]()
+ ### [Requirements](https://github.com/ashkar99/Office-Utilization-Monitoring-System/blob/main/doc/requirements.md)
  Here You can see the Requirements that the project should achieve.
   
- ### [Hardware materials]()
+ ### [Hardware materials](https://github.com/ashkar99/Office-Utilization-Monitoring-System/blob/main/doc/hardware.md)
  Here You can see what you need for hardware materials to set up the project
 
- ### [Setup Instractions]()
+ ### [Setup Instractions](https://github.com/ashkar99/Office-Utilization-Monitoring-System/blob/main/doc/setup.md)
  Here You can see how you can set up the project 
 
 
